@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Booking-Task.API.props" />
+</Project>

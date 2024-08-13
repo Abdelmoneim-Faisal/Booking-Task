@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\bin\Debug\net8.0\Booking-Task.Core.deps.json
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\bin\Debug\net8.0\Booking-Task.Core.dll
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\bin\Debug\net8.0\Booking-Task.Core.pdb
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\Booking-Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\Booking-Task.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\Booking-Task.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\Booking-Task.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\Booking-Task.Core.dll
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\refint\Booking-Task.Core.dll
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\Booking-Task.Core.pdb
+C:\Users\ASUS\Desktop\initTask\Booking-Task\Booking-Task\Booking-Task.Core\obj\Debug\net8.0\ref\Booking-Task.Core.dll
